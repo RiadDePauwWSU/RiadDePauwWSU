@@ -20,4 +20,4 @@ cd Temp
 echo "This is the current directory: $(pwd)"
 # Create a file
 touch NewFile.txt
-ls
+ls -la
