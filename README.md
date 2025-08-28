@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name's Riad and I'm a CS student currently on a fall exchange program in WSU!
+
+I love motorcycles, creating fun projects & going out hiking or workout at the gym.
+
+
 <!--
 **RiadDePauwWSU/RiadDePauwWSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
